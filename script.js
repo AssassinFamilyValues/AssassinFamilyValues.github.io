@@ -1,4 +1,4 @@
-var divs = ["chapter1", "chapter2", "chapter3", "chapter4", "chapter5"];
+var divs = ["main", "chapter1", "chapter2", "chapter3", "chapter4", "chapter5"];
  var visibleDivId = null;
  function toggleVisibility(divId) {
  if(visibleDivId === divId) {

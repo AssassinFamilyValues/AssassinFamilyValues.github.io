@@ -278,5 +278,17 @@ body {
 	border-width: 0px;
 	display: none; 
 }
-#CONTAINER #chapter1 {
+#main {
+	height: 100%;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
+}
+#copyright {
+	height: 100%;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 0px;
 }
